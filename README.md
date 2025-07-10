@@ -56,7 +56,7 @@ python3 checker.py
 ```
 
 ## Finding Targets
-Use Shodan with the query '"3.1.3.150324"' to find Hikvision cameras with the specified firmware version.
+Use Shodan with the query `3.1.3.150324` to find Hikvision cameras with the specified firmware version.
 
 
 ## My WebSite
