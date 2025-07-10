@@ -48,7 +48,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-Create a targets.txt file listing target camera IPs and ports in the format IP:PORT.
+Create a `targets.txt` file listing target camera IPs and ports in the format IP:PORT.
 
 Run the checker script:
 ```bash
