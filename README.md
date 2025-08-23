@@ -44,11 +44,9 @@ HikSploit supports two modes:
 git clone https://github.com/aresowl/HikSploit.git
 cd HikSploit
 pip3 install -r requirements.txt
-# Install FFmpeg from its official website
 ```
 
-## Usage
-Create a `targets.txt` file listing target camera IPs and ports in the format IP:PORT.
+
 
 Run the checker script:
 ```bash
@@ -58,9 +56,6 @@ python3 checker.py
 ## Finding Targets
 Use Shodan with the query `3.1.3.150324` to find Hikvision cameras with the specified firmware version.
 
-
-## My WebSite
-www.xi0.ir
 
 ## License
 This project is licensed under the MIT License.
