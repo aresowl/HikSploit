@@ -32,7 +32,6 @@ HikSploit supports two modes:
 ## Requirements
 
 - Python 3.6 or higher  
-- FFmpeg (for video compilation)  
 - Requests library  
 
 ---
