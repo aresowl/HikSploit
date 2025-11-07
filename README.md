@@ -34,7 +34,6 @@ HikSploit supports two modes:
 - Python 3.6 or higher  
 - FFmpeg (for video compilation)  
 - Requests library  
-- PyCrypto library (for decryption, install with `pip install pycrypto`)
 
 ---
 
@@ -43,7 +42,7 @@ HikSploit supports two modes:
 ```bash
 git clone https://github.com/aresowl/HikSploit.git
 cd HikSploit
-pip3 install -r requirements.txt
+pip3 install request
 ```
 
 
