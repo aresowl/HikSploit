@@ -19,13 +19,8 @@ HikSploit supports two modes:
 - Automated directory accessibility checks  
 - Snapshot downloading and video compilation  
 - Device and user information retrieval  
-- Encrypted configuration file downloading and decryption  
 - Comprehensive CVE vulnerability checks  
 - Multi-target support using a targets.txt file  
-- Detailed logging with colored output  
-- Interrupt handling (SIGQUIT)  
-- Customizable configuration options  
-- Organized output folders for snapshots, logs, and decrypted files
 
 ---
 
